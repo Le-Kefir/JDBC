@@ -7,8 +7,8 @@ public class DBUtilities {
     static final String DATABASE_URL = "jdbc:mysql://localhost/user";
 
     //  Database credentials
-    static final String USER = "root";
-    static final String PASS = "darkhan57";
+    static final String USER = "";
+    static final String PASS = "";
 
 
     Connection connection = null;
